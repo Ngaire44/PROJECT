@@ -34,7 +34,7 @@ Decision Tree
 
 Random Forest
 
-XGBoost ✅ (Best Performing Model)
+XGBoost (Best Performing Model)
 
 Best Model 
 
